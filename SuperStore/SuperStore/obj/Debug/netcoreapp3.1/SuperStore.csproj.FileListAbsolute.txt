@@ -1,0 +1,13 @@
+C:\Users\hP\source\repos\SuperStore\SuperStore\obj\Debug\netcoreapp3.1\SuperStore.csprojAssemblyReference.cache
+C:\Users\hP\source\repos\SuperStore\SuperStore\obj\Debug\netcoreapp3.1\SuperStore.AssemblyInfoInputs.cache
+C:\Users\hP\source\repos\SuperStore\SuperStore\obj\Debug\netcoreapp3.1\SuperStore.AssemblyInfo.cs
+C:\Users\hP\source\repos\SuperStore\SuperStore\obj\Debug\netcoreapp3.1\SuperStore.csproj.CoreCompileInputs.cache
+C:\Users\hP\source\repos\SuperStore\SuperStore\bin\Debug\netcoreapp3.1\SuperStore.exe
+C:\Users\hP\source\repos\SuperStore\SuperStore\bin\Debug\netcoreapp3.1\SuperStore.deps.json
+C:\Users\hP\source\repos\SuperStore\SuperStore\bin\Debug\netcoreapp3.1\SuperStore.runtimeconfig.json
+C:\Users\hP\source\repos\SuperStore\SuperStore\bin\Debug\netcoreapp3.1\SuperStore.runtimeconfig.dev.json
+C:\Users\hP\source\repos\SuperStore\SuperStore\bin\Debug\netcoreapp3.1\SuperStore.dll
+C:\Users\hP\source\repos\SuperStore\SuperStore\bin\Debug\netcoreapp3.1\SuperStore.pdb
+C:\Users\hP\source\repos\SuperStore\SuperStore\obj\Debug\netcoreapp3.1\SuperStore.dll
+C:\Users\hP\source\repos\SuperStore\SuperStore\obj\Debug\netcoreapp3.1\SuperStore.pdb
+C:\Users\hP\source\repos\SuperStore\SuperStore\obj\Debug\netcoreapp3.1\SuperStore.genruntimeconfig.cache
